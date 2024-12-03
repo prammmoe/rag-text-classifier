@@ -1,0 +1,80 @@
+Dokumen yang diberikan tidak menyediakan informasi yang cukup untuk menilai semua indikator Carbon Disclosure Index dengan cara yang kuantitatif.  Sebagian besar informasi bersifat kualitatif dan deskriptif,  fokusnya pada strategi dan rencana masa depan, bukan pada data emisi historis dan  angka-angka yang dibutuhkan untuk penilaian kuantitatif.  Oleh karena itu, banyak indikator akan diberi nilai 0 atau 1,  tergantung pada apakah informasi *apapun* diberikan atau tidak.  Karena tidak ada pembagian halaman dalam teks yang diberikan, saya akan menggunakan poin-poin dalam teks sebagai referensi.
+
+Berikut penilaian berdasarkan indikator yang diberikan:
+
+1. **Assessment/description/identification of climate change-related risk:** 1 (Kualitatif -  menjelaskan risiko umum seperti perubahan pola cuaca dan dampaknya terhadap infrastruktur, tetapi tidak memberikan penilaian risiko yang spesifik dan kuantitatif).  *Referensi: Paragraf "To address changing weather patterns" dan contoh tren.*
+
+2. **Assessment/description/identification of climate change-related opportunities:** 1 (Kualitatif -  menyebutkan peluang dari energi terbarukan, tetapi tidak memberikan penilaian kuantitatif peluang tersebut). *Referensi: Paragraf awal tentang investasi di energi terbarukan dan pendapatan dari aset terbarukan.*
+
+3. **Assessment of the impact of future climate-related risk and opportunities:** 1 (Kualitatif -  menjelaskan dampak potensial, tetapi tidak memberikan penilaian kuantitatif). *Referensi:  Contoh tren yang diberikan,  dan pembahasan tentang dampak potensial dari penurunan pendapatan pada aset terbarukan.*
+
+4. **Description of scope1 emissions:** 0 (Tidak dilaporkan)
+
+5. **Comparison of scope1 emissions with the previous year:** 0 (Tidak dilaporkan)
+
+6. **Description of scope2 emissions:** 0 (Tidak dilaporkan)
+
+7. **Comparison of scope2 emissions with the previous year:** 0 (Tidak dilaporkan)
+
+8. **Description of scope3 emissions:** 0 (Tidak dilaporkan)
+
+9. **Comparison of scope3 emissions with the previous year:** 0 (Tidak dilaporkan)
+
+10. **Total GHG emissions:** 0 (Tidak dilaporkan)
+
+11. **Emission of Ozone depleting substances:** 0 (Tidak dilaporkan)
+
+12. **Nitrogen oxide, sulfur oxide and other air emissions:** 0 (Tidak dilaporkan)
+
+13. **Disclosure of emission intensity:** 0 (Tidak dilaporkan)
+
+14. **Disclosure of GHG emissions by sources:** 0 (Tidak dilaporkan)
+
+15. **Disclosure of GHG emission by facilities/segment:** 0 (Tidak dilaporkan)
+
+16. **Description of protocol/standard/methodology used to measure GHG emissions:** 0 (Tidak dilaporkan)
+
+17. **Disclosure of reduction in emissions:** 0 (Tidak dilaporkan)
+
+18. **Disclosure of initiatives taken to reduce emissions:** 1 (Kualitatif -  menjelaskan beberapa inisiatif, tetapi tidak memberikan data kuantitatif tentang pengurangan emisi). *Referensi: Paragraf "Condition monitoring and service recovery."*
+
+19. **Description of targets set to reduce emissions:** 0 (Tidak dilaporkan)
+
+20. **Comparison of current year targets with the previous year:** 0 (Tidak dilaporkan)
+
+21. **Are emissions generated within permissible limits given by CPCB/SPCB:** 0 (Tidak dilaporkan)
+
+22. **Environment management system in the company:** 1 (Kualitatif -  menunjukkan adanya sistem manajemen, tetapi tidak memberikan rincian). *Referensi:  Pembahasan tentang pendekatan pengelolaan yang kuat dan tanggapan terhadap risiko iklim.*
+
+23. **Identify the person/management/committee responsible for climate policies/strategy:** 0 (Tidak dilaporkan)
+
+24. **Description of climate change-related business strategy:** 1 (Kualitatif -  menjelaskan strategi, tetapi tanpa angka-angka yang terukur). *Referensi:  Bagian tentang investasi terbarukan dan manajemen risiko iklim.*
+
+25. **Consumption of fuel:** 0 (Tidak dilaporkan)
+
+26. **Consumption of purchased/acquired electricity:** 0 (Tidak dilaporkan)
+
+27. **Quantification of total energy consumption:** 0 (Tidak dilaporkan)
+
+28. **Comparison of total energy consumption with the previous year:** 0 (Tidak dilaporkan)
+
+29. **Reduction in energy consumption:** 0 (Tidak dilaporkan)
+
+30. **Targets set to reduce energy consumption:** 0 (Tidak dilaporkan)
+
+31. **Consumption of renewable energy:** 1 (Kualitatif -  menyebutkan penggunaan energi terbarukan, tetapi tidak memberikan angka-angka). *Referensi: Paragraf awal tentang investasi di energi terbarukan.*
+
+32. **Participation in emission trading schemes:** 0 (Tidak dilaporkan)
+
+33. **Statement from CEO/chairman/head of sustainability committee of the company regarding climate change:** 0 (Tidak dilaporkan)
+
+34. **Inclusion of words “climate change”/“global warming”:** 1 (Kualitatif - Kata-kata tersebut disebutkan dalam dokumen).
+
+35. **Section devoted to climate change/natural capital/sustainability:** 1 (Kualitatif -  Dokumen ini sendiri merupakan laporan terkait iklim).
+
+36. **Investment in clean energy technologies:** 1 (Kualitatif -  disebutkan investasi dalam energi terbarukan, tetapi tidak ada angka yang spesifik). *Referensi: Paragraf awal tentang investasi di energi terbarukan.*
+
+37. **Awards if any:** 0 (Tidak dilaporkan)
+
+
+Kesimpulannya,  dokumen ini memberikan gambaran kualitatif tentang kesadaran dan strategi perusahaan terkait perubahan iklim, tetapi sangat kurang dalam hal data kuantitatif yang diperlukan untuk penilaian yang komprehensif.  Perusahaan perlu memberikan informasi yang lebih detail dan kuantitatif untuk mendapatkan skor yang lebih tinggi pada indeks keberlanjutan.

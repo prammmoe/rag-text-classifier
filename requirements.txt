@@ -4,7 +4,8 @@ langchain-chroma
 langchain-openai
 langchain-core
 faiss-cpu
-dotenv
+faiss-gpu-cu12
 langchain-google-genai
 langsmith
 pypdf
+# dotenv

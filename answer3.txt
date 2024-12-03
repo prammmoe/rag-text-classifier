@@ -1,0 +1,21 @@
+Tidak dapat memberikan jawaban yang tepat karena teks yang diberikan bukan laporan pengungkapan karbon yang lengkap. Teks tersebut hanya berupa cuplikan yang membahas beberapa aspek, terutama terkait dampak perubahan iklim dan strategi adaptasi, bukan informasi kuantitatif emisi dan inisiatif pengurangannya yang dibutuhkan untuk penilaian indeks keberlanjutan yang komprehensif.  Informasi yang ada tidak cukup untuk menentukan kategori (0, 1, 2, atau 3) untuk setiap indikator.
+
+
+Untuk memberikan penilaian yang akurat, saya memerlukan laporan lengkap yang mencakup semua indikator yang tercantum, termasuk data kuantitatif dan kualitatif yang relevan.  Cuplikan teks hanya memberikan gambaran kualitatif tentang beberapa aspek, seperti  perencanaan untuk risiko iklim (kualitatif), investasi dalam energi bersih (kualitatif), dan dampak potensial perubahan iklim (kualitatif).
+
+
+Berikut contoh tabel yang *seharusnya* terisi jika teks tersebut merupakan laporan lengkap:
+
+
+| No | Indikator | Label | Deskripsi |
+|---|---|---|---|
+| 1 | Assessment/description/identification of climate change-related risk | 1 (Qualitative) | Deskripsi risiko perubahan iklim disebutkan pada halaman [Nomor Halaman], contohnya dampak perubahan pola cuaca terhadap kinerja pembangkit listrik tenaga angin. |
+| 2 | Assessment/description/identification of climate change-related opportunities | 1 (Qualitative) |  Penjelasan peluang yang terkait dengan perubahan iklim (misalnya, peningkatan investasi dalam energi terbarukan) terdapat di halaman [Nomor Halaman]. |
+| 3 | Assessment of the impact of future climate-related risk and opportunities | 1 (Qualitative) | Analisis dampak  risiko dan peluang perubahan iklim di masa depan dijelaskan secara kualitatif di halaman [Nomor Halaman], contohnya perkiraan dampak penurunan pendapatan akibat penurunan kinerja pembangkit listrik tenaga angin. |
+| 4 | Description of scope1 emissions | 0 (Not Reported) | Tidak ada informasi tentang emisi Scope 1 dalam cuplikan teks. |
+| 5 | Comparison of scope1 emissions with the previous year | 0 (Not Reported) |  Tidak ada informasi perbandingan emisi Scope 1. |
+| ... | ... | ... | ... |
+| 37 | Awards if any | 0 (Not Reported) | Tidak ada informasi tentang penghargaan yang diterima. |
+
+
+**Catatan:**  Semua entri "Label" dan "Deskripsi"  dengan "[Nomor Halaman]"  adalah *placeholder* karena informasi yang dibutuhkan tidak ada dalam teks yang diberikan.  Untuk mengisi tabel ini secara akurat, diperlukan laporan lengkap yang berisi data kuantitatif dan kualitatif untuk setiap indikator.

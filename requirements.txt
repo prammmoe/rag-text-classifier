@@ -1,0 +1,10 @@
+langchain-community
+langchain-google-vertexai
+langchain-chroma 
+langchain-openai
+langchain-core
+faiss-cpu
+dotenv
+langchain-google-genai
+langsmith
+pypdf

@@ -1,0 +1,3 @@
+Berdasarkan teks yang diberikan, tidak ada informasi yang relevan dengan indikator Carbon Disclosure Index yang Anda sebutkan.  Teks tersebut membahas laporan keberlanjutan Pertamina yang berfokus pada Tujuan Pembangunan Berkelanjutan (SDG), khususnya SDG 15 (Ekosistem Daratan), dan  mencakup informasi mengenai pelatihan difabel, manajemen dampak pembuangan air, dan konsumsi air.  Tidak ada data mengenai emisi gas rumah kaca (GRK), konsumsi energi, strategi perubahan iklim, atau informasi lain yang dibutuhkan untuk penilaian Carbon Disclosure Index.
+
+Oleh karena itu, semua indikator Carbon Disclosure Index yang Anda berikan akan diberi nilai **0: Not Reported**.
